@@ -1,0 +1,251 @@
+
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #ffffff;
+  height: 1918px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop .overlap {
+  height: 1168px;
+  left: 0;
+  position: absolute;
+  top: 807px;
+  width: 1439px;
+}
+
+.desktop .element {
+  height: 527px;
+  left: 123px;
+  position: absolute;
+  top: 0;
+  width: 1193px;
+}
+
+.desktop .img {
+  height: 603px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 508px;
+  width: 1439px;
+}
+
+.desktop .text-wrapper {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 389px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 124px;
+  width: 662px;
+}
+
+.desktop .text-wrapper-2 {
+  color: #000000;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-size: 43px;
+  font-weight: 800;
+  left: 257px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  white-space: nowrap;
+  width: 925px;
+}
+
+.desktop .a-partner-for-the {
+  color: #000000;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 86px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 603px;
+  width: 984px;
+}
+
+.desktop .span {
+  font-weight: 800;
+}
+
+.desktop .text-wrapper-3 {
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 24px;
+}
+
+.desktop .text-wrapper-4 {
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.desktop .a-one-stop-hub-for {
+  color: #000000;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 254px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 835px;
+  width: 1124px;
+}
+
+.desktop .overlap-group {
+  background-size: 100% 100%;
+  height: 768px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop .navbar {
+  align-items: center;
+  border-radius: 8px;
+  display: flex;
+  height: 87px;
+  justify-content: space-between;
+  left: 139px;
+  padding: 16px 24px;
+  position: absolute;
+  top: 39px;
+  width: 1162px;
+}
+
+.desktop .gray-logo {
+  height: 62.89px;
+  margin-bottom: -3.95px;
+  margin-top: -3.95px;
+  position: relative;
+  width: 232px;
+}
+
+.desktop .frame {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 45px;
+  position: relative;
+}
+
+.desktop .text-wrapper-5 {
+  color: #000000;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-size: 24px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.desktop .overlap-2 {
+  height: 322px;
+  left: 378px;
+  position: absolute;
+  top: 292px;
+  width: 751px;
+}
+
+.desktop .welcome-to-ebarangay {
+  color: #000000;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 57px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 751px;
+}
+
+.desktop .text-wrapper-6 {
+  font-weight: 700;
+}
+
+.desktop .text-wrapper-7 {
+  font-family: "Inter-Regular", Helvetica;
+}
+
+.desktop .frame-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  left: 228px;
+  position: absolute;
+  top: 220px;
+  width: 222px;
+}
+
+.desktop .div-wrapper {
+  align-items: center;
+  align-self: stretch;
+  background: linear-gradient(
+    90deg,
+    rgba(239, 65, 54, 1) 0%,
+    rgba(251, 176, 64, 1) 100%
+  );
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  height: 45px;
+  justify-content: center;
+  padding: 16px 32px;
+  position: relative;
+  width: 100%;
+}
+
+.desktop .text-wrapper-8 {
+  color: #000000;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -4.50px;
+  margin-top: -6.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop .frame-3 {
+  align-items: center;
+  align-self: stretch;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 0, 212, 1) 0%,
+    rgba(0, 221, 255, 1) 100%
+  );
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  height: 45px;
+  justify-content: center;
+  padding: 16px 32px;
+  position: relative;
+  width: 100%;
+}
