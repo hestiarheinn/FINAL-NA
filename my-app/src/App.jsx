@@ -73,7 +73,7 @@ export default function Desktop() {
                   Login
                 </button>
                 <button className="px-8 py-3  bg-white border-2 text-gray-900 rounded-lg font-semibold hover:bg-gray-100  transition-all duration-200 transform hover:scale-105 shadow-lg hover:shadow-xl text-lg">
-                  Signup
+                  Sign up
                 </button>
               </div>
             </div>
